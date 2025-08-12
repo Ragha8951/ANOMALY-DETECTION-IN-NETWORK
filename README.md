@@ -5,6 +5,8 @@
 
 This Python project implements **two machine learning approaches** — an **Autoencoder** and **RBM (Restricted Boltzmann Machine) with Logistic Regression** — to detect network intrusions using the **UNSW-NB15 dataset**.
 
+CLICK ON OPEN WITH COLLAB  
+
 ## Features
 
 - Loads and preprocesses the **UNSW-NB15 training and testing datasets**.
