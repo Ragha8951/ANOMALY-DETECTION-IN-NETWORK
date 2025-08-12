@@ -64,6 +64,7 @@ This Python project implements **two machine learning approaches** — an **Auto
 
 ## Example Output
 
+```
 Epoch 1/20 - Train Loss: 0.0112 - Val Loss: 0.0120 - Val ROC-AUC: 0.8453 - Val Accuracy: 0.7812
 ...
 Autoencoder Evaluation:
@@ -77,7 +78,7 @@ Accuracy: 0.7687
 Precision: 0.7489
 Recall: 0.7856
 ROC-AUC: 0.8345
-'''
+```
 
 ## Notes
 
