@@ -1,7 +1,7 @@
 # ANOMALY-DETECTION-IN-NETWORK
 # Autoencoder & RBM Intrusion Detection System
 
-[**Live Demo**](https://drive.google.com/file/d/1zoGOmrGwLGGbCPGRq87HVqUMfY1hxrZK/view?usp=sharing)
+[**Live Demo**](https://colab.research.google.com/drive/10SO9TvWEi2EAbMzzN68_iRjjLm--g-38)
 
 This Python project implements **two machine learning approaches** — an **Autoencoder** and **RBM (Restricted Boltzmann Machine) with Logistic Regression** — to detect network intrusions using the **UNSW-NB15 dataset**.
 
@@ -53,7 +53,7 @@ CLICK ON OPEN WITH COLLAB
 
 ## How to Use
 
-1. Open the [Google Colab link](https://drive.google.com/file/d/1zoGOmrGwLGGbCPGRq87HVqUMfY1hxrZK/view?usp=sharing).
+1. Open the [Google Colab link](https://colab.research.google.com/drive/10SO9TvWEi2EAbMzzN68_iRjjLm--g-38).
 2. Upload the following datasets into the runtime:
    - `UNSW_NB15_training-set.csv`
    - `UNSW_NB15_testing-set.csv`
